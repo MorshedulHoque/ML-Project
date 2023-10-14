@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/DA/Documents/Project/ML-Project/mlruns/0/84c00af4836c4c188029c09018179aa3/artifacts
+end_time: 1697260187492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84c00af4836c4c188029c09018179aa3
+run_name: silent-panda-725
+run_uuid: 84c00af4836c4c188029c09018179aa3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697260180420
+status: 3
+tags: []
+user_id: root
